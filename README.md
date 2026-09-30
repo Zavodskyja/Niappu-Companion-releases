@@ -1,1 +1,1 @@
-# JPreader-releases
+# JPGameOL-releases
