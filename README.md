@@ -57,6 +57,11 @@ Words are underlined as **new**, **learning** or **known**, using your Anki card
   <img src="https://github.com/user-attachments/assets/31f1292a-d56e-4e8e-a169-24b6946532d5" width="700" alt="Status underlines in a dialogue box">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1fdc6916-64c7-4909-be6d-3ca48bc64f4d" width="400" alt="Status underlines in a dialogue box">
+</p>
+
+
 ### Regions for dialogue boxes
 Draw a box around the dialogue window once. Niappu Companion watches it and sends every new line to the text page on its own. It can even notice where the dialogue is and offer to make the region for you. Region presets switch automatically with the game in front.
 
