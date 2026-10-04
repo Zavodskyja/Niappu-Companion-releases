@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1c65316-8abc-40fa-a9af-6170f35810cb" width="96" alt="Niappu Companion">
+  <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/c07e14ce-02ec-4251-8a58-3b1842f3a2b7" />
 </p>
 
 <h1 align="center">Niappu Companion</h1>
